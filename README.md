@@ -10,13 +10,6 @@ This is a Python script that simplifies polynomials by combining like terms and 
 I created this script out of boredom one afternoon and thought it might be useful for others who need to simplify polynomials quickly and easily. While I don't usually upload things to Github, I thought this could be a fun project to share with others who might find it helpful.
 
 ## Usage
-### Installation
-To use this script, you'll need to have Python 3 installed on your system along with the required libraries. You can install the necessary libraries by running the following command:
-
-
-```bash
-pip install -r requirements.txt
-```
 
 ### Cloning the Repository
 To clone this repository, open a terminal and run the following command:
@@ -24,6 +17,20 @@ To clone this repository, open a terminal and run the following command:
 
 ```bash
 git clone https://github.com/elmoyeet/Polynomials-Simplificator.git
+```
+
+
+### Installation
+To use this script, you'll need to have Python 3 installed on your system along with the required libraries. You can install the necessary libraries by running the following command:
+
+
+```bash
+pip install -r requirements.txt
+```
+Then, enter the project directory by running this command:
+
+```bash
+cd Polynomials-Simplificator
 ```
 
 ### Running the Script
