@@ -1,5 +1,6 @@
 # Polynomials-Simplificator
-# ![](https://img.shields.io/github/gist/stars/3f4d693eddb711ac09ec12eb116b9059) ![](https://img.shields.io/github/stars/elmoyeet/Polynomials-Simplificator?color=green&label=Repo%20Stars) ![](https://img.shields.io/github/forks/elmoyeet/Polynomials-Simplificator?color=orange) ![](https://img.shields.io/github/watchers/elmoyeet/Polynomials-Simplificator?color=purple) ![](https://img.shields.io/github/issues/elmoyeet/Polynomials-Simplificator?color=red)
+### ![](https://img.shields.io/github/gist/stars/3f4d693eddb711ac09ec12eb116b9059) ![](https://img.shields.io/github/stars/elmoyeet/Polynomials-Simplificator?color=green&label=Repo%20Stars) ![](https://img.shields.io/github/forks/elmoyeet/Polynomials-Simplificator?color=orange) ![](https://img.shields.io/github/watchers/elmoyeet/Polynomials-Simplificator?color=purple) ![](https://img.shields.io/github/issues/elmoyeet/Polynomials-Simplificator?color=red)
+Support by giving ⭐
 
 ### Description
 This is a Python script that simplifies polynomials by combining like terms and expanding parentheses. The script takes a polynomial expression as input and outputs its simplified form.
